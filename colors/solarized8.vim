@@ -188,6 +188,8 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
     hi WildMenu guifg=#eee8d5 guibg=#073642 guisp=NONE gui=reverse cterm=reverse
     hi Comment guifg=#586e75 guibg=NONE guisp=NONE gui=italic cterm=italic
     hi Constant guifg=#2aa198 guibg=NONE guisp=NONE gui=NONE cterm=NONE
+    hi Number guifg=#666699 guibg=NONE guisp=NONE gui=NONE cterm=NONE
+    hi Number guifg=#667d99 guibg=NONE guisp=NONE gui=NONE cterm=NONE
     hi CursorIM guifg=NONE guibg=fg guisp=NONE gui=NONE cterm=NONE
     hi Error guifg=#dc322f guibg=#fdf6e3 guisp=NONE gui=bold,reverse cterm=bold,reverse
     hi Identifier guifg=#268bd2 guibg=NONE guisp=NONE gui=NONE cterm=NONE
