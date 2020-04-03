@@ -28,13 +28,12 @@ hi! link Debug Special
 hi! link Define PreProc
 hi! link Delimiter Special
 hi! link Exception Statement
-hi! link Float Constant
+hi! link Float Number
 hi! link Function Identifier
 hi! link Include PreProc
 hi! link Keyword Statement
 hi! link Label Statement
 hi! link Macro PreProc
-hi! link Number Constant
 hi! link Operator Statement
 hi! link PreCondit PreProc
 hi! link QuickFixLine Search
@@ -44,7 +43,6 @@ hi! link SpecialComment Special
 hi! link StatusLineTerm StatusLine
 hi! link StatusLineTermNC StatusLineNC
 hi! link StorageClass Type
-hi! link String Constant
 hi! link Structure Type
 hi! link Tag Special
 hi! link Typedef Type
